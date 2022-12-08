@@ -1,2 +1,2 @@
-# pfs-lab8
-pfs lab8
+# GALab8
+GitHub Actions - przegląd podstawowych rozwiązań
